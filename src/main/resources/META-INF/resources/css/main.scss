@@ -1,0 +1,228 @@
+.Frame-1 {
+  width: 1440px;
+  height: 889px;
+  background-color: #ffffff;
+}
+.contenedor{
+position: relative;
+    /*justify-content: center;
+    align-items: center;*/
+    /*display: inline-block;*/
+    text-align: left;
+margin: 0 auto;
+   left: 0;
+   right: 0;
+   width: 1440px;
+  height: 878.3px;
+	/*width: 100%;
+	height: 100%;*/
+  /*object-fit: contain;*/
+  border-radius: 40px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  border:none;
+}
+
+.img-p{
+position: relative;
+	 width: 100%;
+	height: 100%;
+  object-fit: contain;
+  border-radius: 40px;
+  background-color: #e3e8eb;
+}
+.Card-Base {
+  width: 675px;
+  height: 878px;
+  border-radius: 1px;
+  border: solid 1px rgba(46, 91, 255, 0.08);
+  background-color: #ffffff;
+}
+.ElementCard-Base-Flat {
+  width: 675px;
+  height: 878.3px;
+  /*object-fit: contain;*/
+  border-radius: 40px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+
+}
+.Sign-in-to-Velocity {
+  width: 246px;
+  height: 32px;
+  /*font-family: Rubik;*/
+  font-size: 34px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.94;
+  letter-spacing: normal;
+  color: #2e384d;
+  position: absolute;
+  top: 25%;
+  left: 12%;
+  border:none;
+}
+.Please-enter-your-cr {
+  width: 320px;
+  height: 22px;
+  font-family: Rubik;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.47;
+  letter-spacing: normal;
+  color: #8798ad;
+  position: absolute;
+    top: 30%;
+    left: 12%;
+	border:none;
+}
+.title {
+  width: 60px;
+  height: 14px;
+  font-family: Rubik;
+  font-size: 12px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 1.13px;
+  color: #b0bac9;
+  position: absolute;
+  top: 36%;
+  left: 12%;
+}
+.title-error {
+  height: 42px;
+  font-family: Rubik;
+  font-size: 12px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 1.13px;
+  color: #f67a7a;
+  position: absolute;
+  top: 75%;
+  left: 12%;
+}
+.Rectangle-usuario {
+  width: 320px;
+  height: 40.6px !important;
+  border-radius: 5px;
+  border: solid 1px #e0e7ff;
+  background-color: rgba(224, 231, 255, 0.2);
+  position: absolute;
+  top: 39%;
+  left: 12%;
+}
+.title-contrasena {
+  width: 91px;
+  height: 14px;
+  font-family: Rubik;
+  font-size: 12px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 1.13px;
+  color: #b0bac9;
+  position: absolute;
+  top: 46%;
+  left: 12%;
+}
+.Rectangle-contrasena {
+  width: 320px;
+  height: 40.6px !important;
+  border-radius: 5px;
+  border: solid 1px #e0e7ff;
+  background-color: rgba(224, 231, 255, 0.2);
+  position: absolute;
+  top: 49%;
+  left: 12%;
+}
+.Checkbox {
+  width: 16px;
+  height: 16px;
+  opacity: 0.18;
+  border-radius: 5px;
+  border: solid 1px #8097b1;
+  position: absolute;
+  top: 62%;
+  left: 12%;
+}
+.Card-Base {
+  width: 675px;
+  height: 878px;
+  border-radius: 1px;
+  border: solid 1px rgba(46, 91, 255, 0.08);
+  background-color: #ffffff;
+}
+.Vehicle-11283 {
+	width: 160px;
+	height: 14px;
+	font-family: Rubik;
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #b0bac9;
+	position: absolute;
+	top: 62%;
+    	left: 14%;
+}
+
+.Checkbox-conectado {
+  width: 16px;
+  height: 16px;
+  opacity: 0.18;
+  border-radius: 5px;
+  border: solid 1px #8097b1;
+  position: absolute;
+  top: 62%;
+  left: 23%;
+}
+.Vehicle-11283-conectado {
+  width: 160px;
+  height: 14px;
+  font-family: Rubik;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #b0bac9;
+  position: absolute;
+  top: 62%;
+  left: 25%;
+}
+.basebo {
+  width: 320px;
+  height: 50px;
+  border-radius: 4px !important;
+  background-color: #0d4d64 !important;
+  position: absolute;
+  top: 80%;
+  left: 12%;
+}
+.-Value {
+  font-family: Rubik;
+  font-size: 15px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.4;
+  letter-spacing: normal;
+  color: #ffffff !important;
+}
+.recaptchaP {
+  width: 320px;
+  height: 50px;
+  border-radius: 4px;
+  position: absolute;
+  top: 68%;
+  left: 12%;
+}

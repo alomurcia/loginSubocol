@@ -1,0 +1,4 @@
+Bundle-Name: subocol-login
+Bundle-SymbolicName: com.subocol.orbika.login
+Bundle-Version: 1.0.0
+Export-Package: com.subocol.orbika.login.constants
